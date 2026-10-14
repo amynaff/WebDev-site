@@ -197,6 +197,7 @@ footer {
 }
 .foot { display: flex; justify-content: space-between; align-items: baseline; }
 .foot p { margin: 0; }
+.foot-links { display: flex; gap: 1.5rem; }
 
 @media (max-width: 34rem) {
   body { font-size: 1.0625rem; }
